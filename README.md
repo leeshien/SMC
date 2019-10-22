@@ -4,4 +4,4 @@
  2. Assign edge to user who has connection to another, eg: userA,userD
  3. Visualize graph of Oppo's network
 
-![alt text](https://raw.githubusercontent.com/leeshien/SMC/oppo_network.png)
+![alt text](https://raw.githubusercontent.com/leeshien/SMC/master/oppo_network.png)
